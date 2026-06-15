@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "download_url": "https://github.com/codebycyril/stock-valuation-tool-python/releases/latest",
-  "release_notes": "Update system phase 1"
+  "release_notes": "UI optimization, About dialog improvements and update system enhancements."
 }
